@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Andrew387/react_carousel.git/static/css/main.e26261b3.css",
+    "main.js": "/Andrew387/react_carousel.git/static/js/main.4c1105d4.js",
+    "static/js/787.a9ea598b.chunk.js": "/Andrew387/react_carousel.git/static/js/787.a9ea598b.chunk.js",
+    "index.html": "/Andrew387/react_carousel.git/index.html",
+    "main.e26261b3.css.map": "/Andrew387/react_carousel.git/static/css/main.e26261b3.css.map",
+    "main.4c1105d4.js.map": "/Andrew387/react_carousel.git/static/js/main.4c1105d4.js.map",
+    "787.a9ea598b.chunk.js.map": "/Andrew387/react_carousel.git/static/js/787.a9ea598b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26261b3.css",
+    "static/js/main.4c1105d4.js"
+  ]
+}
